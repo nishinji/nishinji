@@ -1,8 +1,10 @@
 ### Hi there 👋
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishinji)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishinji&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishinji&layout=compact&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nishinji&show_icons=true&theme=onedark" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishinji&no-frame=true&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishinji&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on
   - [Vita3K](https://github.com/Vita3K/Vita3K)
