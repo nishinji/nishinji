@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on
   - [Vita3K](https://github.com/Vita3K/Vita3K)
-- 🌱 I’m currently learning
-  - Material engineering (mainly SUS304) at school
 - 📫 How to reach me:
   - Discord: nishinji#6271
 - 😍 I like
