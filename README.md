@@ -1,10 +1,15 @@
-## Hi there 👋
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishinji&layout=compact&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nishinji&show_icons=true&theme=onedark" />
-</p>
+## こんにちは！ 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishinji&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 My Github History
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=199 align="center" src="https://github-readme-stats-three-mu-68.vercel.app/api?username=nishinji&count_private=true&show_icons=true&theme=algolia&hide_border=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=199 align="center" src="https://github-readme-stats-three-mu-68.vercel.app/api/top-langs?username=nishinji&layout=compact&langs_count=8&card_width=320&theme=algolia&hide_border=true"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-eight-peach.vercel.app/?username=nishinji&theme=algolia&row=1&column=8&margin-w=2&no-frame=true"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working on
   - [Vita3K](https://github.com/Vita3K/Vita3K)
